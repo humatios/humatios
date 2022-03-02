@@ -10,6 +10,10 @@
 #### Contact me on
 <a href="https://www.linkedin.com/in/humatios" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+<a href="https://app.daily.dev/humatios"><img
+        src="https://api.daily.dev/devcards/f37cda2627a24162826dbee06e68bc8f.png?r=jis" width="400"
+        alt="Hugo Tilano's Dev Card" />
+</a>
 
 <!--
 **humatios/humatios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
